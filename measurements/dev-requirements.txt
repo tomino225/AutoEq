@@ -6,3 +6,5 @@ selenium~=3.141.0
 rapidfuzz~=0.2.1
 ipywidgets
 jupyterlab
+jupyter-server>=2.14.1 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.4.1 # not directly required, pinned by Snyk to avoid a vulnerability
