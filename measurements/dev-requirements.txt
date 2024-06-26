@@ -6,3 +6,4 @@ selenium~=3.141.0
 rapidfuzz~=0.2.1
 ipywidgets
 jupyterlab
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
